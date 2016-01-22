@@ -1,0 +1,7 @@
+# Added Git ignore
+*.bak
+*.obj
+*.user
+*.suo
+*.vbproj.FileListAbsolute.txt
+/**/obj/*
